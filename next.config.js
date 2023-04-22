@@ -1,4 +1,4 @@
-const { i18n } = require('./next-i18next.config');
+const { i18n, configure } = require('./next-i18next.config');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -14,5 +14,7 @@ const nextConfig = {
     return config;
   },
 };
+
+configure(nextConfig);
 
 module.exports = nextConfig;

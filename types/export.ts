@@ -8,6 +8,7 @@ export type SupportedExportFormats =
   | ExportFormatV2
   | ExportFormatV3
   | ExportFormatV4;
+
 export type LatestExportFormat = ExportFormatV4;
 
 ////////////////////////////////////////////////////////////////////////////////////////////

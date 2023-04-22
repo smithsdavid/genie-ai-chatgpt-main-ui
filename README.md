@@ -1,6 +1,6 @@
 <img src="./public/ai-logo.png" alt="Logo" width="100"/>
 
-# Advanced Genie AI Chatbot UI 2.0.1
+# Advanced Genie AI Chatbot UI 2.2.1
 
 ![ChatGPT - Genie AI](./public/screenshot.png)
 
